@@ -60,6 +60,8 @@ To run `webgoat` image, execute the following command:
 docker run --name webgoat webgoat
 ```
 
+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
+
 Windows containers do not support binding to localhost. To access the website, you need to provide the IP address of your Docker container. To obtain the IP, execute the following command:
 
 ```sh
